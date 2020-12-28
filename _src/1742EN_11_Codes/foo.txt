@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A4B5-0372
+
+ Directory of C:\Documents and Settings\cdupupet\Desktop\ODI\book\Cookbook\Chapters\Chapter 11
+
+12/10/2012  08:42 PM    <DIR>          .
+12/10/2012  08:42 PM    <DIR>          ..
+12/10/2012  08:40 PM    <DIR>          AESCrypt308a_win32_console
+12/10/2012  08:39 PM            84,240 AESCrypt308a_win32_console.zip
+12/10/2012  08:42 PM                 0 foo.txt
+12/10/2012  07:50 PM         2,158,744 sfe_2401_sfx.exe
+               3 File(s)      2,242,984 bytes
+               3 Dir(s)  21,945,978,880 bytes free

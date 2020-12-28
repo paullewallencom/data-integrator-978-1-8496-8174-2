@@ -1,0 +1,2 @@
+"1 Sample record with CLOB and BLOB","CLOB.txt","BLOB.doc"
+"2 Sample record with CLOB and BLOB","CLOB.txt","BLOB.doc"
